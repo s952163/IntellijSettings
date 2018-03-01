@@ -1,0 +1,5 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="scala.function.return.type.hint" value="true" />
+  </component>
+</application>

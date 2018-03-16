@@ -1,7 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_SCALE" value="1.5" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -20,6 +18,10 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />

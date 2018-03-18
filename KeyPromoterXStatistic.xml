@@ -437,6 +437,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="sbt shell">
+        <Item>
+          <IdeaActionID>Activatesbt-shell-toolwindowToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+S'</ShortCut>
+          <Description>sbt shell</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Delete...">
